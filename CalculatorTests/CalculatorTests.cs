@@ -41,7 +41,7 @@ namespace CalculatorTests
         }
 
         [Test]
-        public void ShouldMultiplyTwoNumbers()
+        public void MultiplyTwoNumbers()
         {
             double x = 10.20;
             double y = 5.20;
